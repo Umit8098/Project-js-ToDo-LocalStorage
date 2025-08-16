@@ -7,7 +7,7 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebi
 👉 [Canlı Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/)  
 
 
-![Uygulama Görseli](./screenshot.png)  
+![Uygulama Görseli](./ToDo.gif)  
 *(Proje klasörüne bir ekran görüntüsü ekleyip burada kullanabilirsin.)*
 
 ---
