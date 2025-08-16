@@ -8,7 +8,7 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebi
 
 
 ![Uygulama Görseli](./ToDo.gif)  
-*(Proje klasörüne bir ekran görüntüsü ekleyip burada kullanabilirsin.)*
+
 
 ---
 
