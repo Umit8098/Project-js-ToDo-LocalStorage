@@ -4,8 +4,8 @@ Basit ve işlevsel bir **ToDo Uygulaması**.
 Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebilir.
 
 ## 🚀 Demo
-👉 [Canlı Demo](https://github.com/umit8098/todo-app)  
-(Eğer GitHub Pages ile yayınlarsan buraya link ekleyebilirsin)
+👉 [Canlı Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/)  
+
 
 ![Uygulama Görseli](./screenshot.png)  
 *(Proje klasörüne bir ekran görüntüsü ekleyip burada kullanabilirsin.)*
