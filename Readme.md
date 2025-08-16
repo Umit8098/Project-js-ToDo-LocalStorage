@@ -1,7 +1,9 @@
 # 📝 ToDo App
 
 Basit ve işlevsel bir **ToDo Uygulaması**.  
-Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebilir.
+Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebilir.  
+Tüm görevler **Local Storage** üzerinde saklanır. Böylece sayfa yenilendiğinde görevler kaybolmaz. 🎉
+
 
 ## 🚀 Demo
 👉 [Canlı Demo](https://umit8098.github.io/Project-js-ToDo-LocalStorage/)  
@@ -9,13 +11,13 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebi
 
 ![Uygulama Görseli](./ToDo.gif)  
 
-
 ---
 
 ## ✨ Özellikler
 - ✅ Yeni görev ekleme  
 - ✅ Görevleri tamamlandı olarak işaretleme  
 - ✅ Görevleri silme  
+- ✅ **Local Storage** desteği  → Görevler tarayıcıda saklanır  
 - ✅ Basit ve kullanıcı dostu arayüz  
 
 ---
@@ -23,7 +25,8 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir ve silebi
 ## 🛠 Kullanılan Teknolojiler
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla JS)**  
+- **JavaScript (Vanilla JS)**
+- **Local Storage API**   
 
 ---
 
