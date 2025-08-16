@@ -33,7 +33,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/umit8098/todo-app.git
+git clone https://github.com/Umit8098/Project-js-ToDo-LocalStorage.git
 
 # Klasöre gir
 cd todo-app
