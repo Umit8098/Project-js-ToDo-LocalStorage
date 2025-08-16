@@ -42,3 +42,13 @@ git clone https://github.com/Umit8098/Project-js-ToDo-LocalStorage.git
 cd todo-app
 
 # index.html dosyasını tarayıcıda aç
+```
+
+## Contact
+
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+- GitHub [@Umit8098](https://github.com/Umit8098)
+
+- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
+<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+
